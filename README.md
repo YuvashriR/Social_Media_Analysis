@@ -1,44 +1,52 @@
-# 📊 Social Media Analysis — Engagement, Reach & Performance Insights  
-### 📁 Project by: **Yuvashri Rajendran**
+<div align="center">
 
-This project analyzes Instagram & Facebook performance using **EDA, Power BI & statistical metrics** to uncover patterns in engagement, impressions, reach, and hashtag influence.  
-It highlights what type of content performs best, which hashtags drive the most visibility, and how users engage across demographics.
+<p align="center">
+  <img src="Intro_img.jpg" width="450">
+</p>
 
----
+# 🌟 Social Media Analytics — Instagram & Facebook Performance Insights  
+### 📁 Project by **Yuvashri Rajendran**
 
-## 🚀 Objective
-
-To identify trends in social media performance and generate **data-driven content strategy insights** through:
-
-✔ Engagement & Impression Analysis  
-✔ Follower Growth & Demographics  
-✔ Hashtag Effectiveness Study  
-✔ ERR & ERI Metric Evaluation
-
-Outcome → Improved visibility, engagement and follower interaction.
+Analyzing how people engage, react, and respond to social media content —  
+to turn dashboards into **decision-making intelligence** 🚀
 
 ---
 
-## 🔍 Tools & Skills Used
+</div>
 
-| Category | Stack |
+## 📌 Overview
+
+This project performs a detailed analysis of **Instagram & Facebook performance metrics** using:
+
+🔹 Exploratory Data Analysis (Python)  
+🔹 Data Visualization (Power BI)  
+🔹 Statistical Engagement Metrics  
+🔹 Hashtag & Follower Behavior Insights  
+
+The goal is to understand **what drives engagement**, who interacts the most, and *which content formats actually perform*.
+
+---
+
+## 🎯 Objectives
+
+| Goal | Outcome |
 |---|---|
-| Data Analysis | Python, Pandas, NumPy, Excel |
-| Visualization | Power BI |
-| KPIs & Metrics | ERR, ERI, Engagement Rate, Impressions |
-| Data Processing | Cleaning, Null Handling, Duplicate Removal |
-| Reporting | Insights, Strategy Suggestions, Charts |
+| Measure post effectiveness | Identify high-performing content |
+| Analyze engagement trends | Spot patterns & drop-points |
+| Evaluate hashtag influence | Find reach/visibility boosters |
+| Study user demographics | Build targeting strategies |
+| Compare platform behaviour | Instagram vs Facebook insights |
+
+> 🔥 End Result → A data-backed approach to increase reach, engagement & audience growth.
 
 ---
 
-## 📂 Project Structure
+## 🛠 Tech Stack
 
-```bash
-Social_Media_Analysis/
-│
-├── data/                                # Raw + processed datasets
-├── dashboard/
-│   └── social_media_dashboard.pbix       # Power BI file
-├── images/                               # Visual charts for README
-└── report.pdf                             # Full analysis report (optional upload)
-└── README.md
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,excel" height="40">
+<img src="https://skillicons.dev/icons?i=powerbi" height="40">
+<img src="https://skillicons.dev/icons?i=github" height="40">
+</p>
+
+
