@@ -3,10 +3,10 @@
   <img src="Intro_img.jpg" width="450">
 
 # 🌟 Social Media Analytics — Instagram & Facebook Performance Insights  
-### 👩‍💻 Project by **Yuvashri Rajendran**
+## 👩‍💻 Project by **Yuvashri Rajendran**
 
-A complete analytics project exploring content performance across Instagram & Facebook.  
-Using **Python, Excel & Power BI**, this study identifies engagement behavior, hashtag effectiveness, follower trends, and platform-level interaction patterns.
+A complete analytics project focused on understanding social media performance across **Instagram & Facebook**.  
+This study analyses engagement behavior, hashtag effectiveness, follower growth patterns, and platform-specific interaction using **Python, Excel & Power BI**.
 
 </div>
 
