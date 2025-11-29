@@ -1,14 +1,14 @@
 <div align="center">
 
-<p align="center">
   <img src="Intro_img.jpg" width="450">
-</p>
 
 # 🌟 Social Media Analytics — Instagram & Facebook Performance Insights  
 ### 👩‍💻 Project by **Yuvashri Rajendran**
 
 A complete analytics project exploring content performance across Instagram & Facebook.  
 Using **Python, Excel & Power BI**, this study identifies engagement behavior, hashtag effectiveness, follower trends, and platform-level interaction patterns.
+
+</div>
 
 ---
 
@@ -18,9 +18,9 @@ Using **Python, Excel & Power BI**, this study identifies engagement behavior, h
 ✔ Compare engagement across platforms  
 ✔ Analyse hashtag reach & impact  
 ✔ Measure audience demographics & growth  
-✔ Convert insights into actionable strategy
+✔ Convert insights into actionable strategy  
 
-> Result → A data-driven approach to increase engagement, reach & visibility.
+> 💡 Data-driven insights that improve engagement, reach & visibility.
 
 ---
 
@@ -42,47 +42,54 @@ Using **Python, Excel & Power BI**, this study identifies engagement behavior, h
 - Primary audience → **35–44 years**
 - Growth observed → **+194 new followers**
 - Peak Engagement Rate (**ERR**) → **10.67%**
-- Best content theme → emotional & parent-support topics
-- Strong performer hashtags → `#singlemums`, `#mumguilt`, `#singlemomlife`
+- Top-performing content → emotional & parent-support posts
+- Strongest hashtags → `#singlemums`, `#mumguilt`, `#singlemomlife`
 
 📍 **Facebook**
-- Engagement range fluctuates: **12.9 to 2500**
-- Visual & emotional storytelling posts perform best
+- Engagement fluctuates: **12.9 to 2500**
+- Visual story-style posts received highest reaction
 
-> Strategy = Use **high-engagement + high-reach hashtag mix** for maximum impact.
+> 📌 Combine **high-reach + high-engagement hashtags** for best results.
 
 ---
 
-## 📸 Visual Output
+## 📸 Visual Outputs
 
-| Engagement Trend | Follower Growth | Hashtag Impact |
+<div align="center">
+
+| Engagement Trend | Follower Growth | Hashtag Performance |
 |---|---|---|
 | <img src="Instagram_performance_Insights.jpg" width="260"/> | <img src="New_Followers_Over_Time.jpg" width="260"/> | <img src="Hastag_Analysis.jpg" width="260"/> |
 
-Additional visual → `Total_engagement_by_Platform.jpg`
+</div>
+
+Additional insight visual → `Total_engagement_by_Platform.jpg`
 
 ---
 
 ## 💡 Recommendations
 
-| Strategy | Benefit |
+| Strategy | Outcome |
 |---|---|
-| Reels + carousels > static posts | Higher reach & engagement |
-| Hashtag clusters (5–15 per post) | Boost visibility & discoverability |
-| Best posting times → evenings/weekends | Higher interaction probability |
-| Caption A/B testing | Increased click-through rate |
-| Region-specific content | Better audience targeting |
+| Reels + Carousels over static posts | More reach & impression depth |
+| Targeted hashtag clusters (5–15) | Better discoverability |
+| Best post time → evenings/weekends | Higher response probability |
+| A/B test captions & thumbnails | Increased conversions |
+| Location-based content | Audience segmentation growth |
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Enhancements
 
-☑ Follower growth forecasting (Time-Series Model)  
-☑ Comment sentiment analysis (NLP)  
-☑ Best-time to post heatmap generation  
-☑ ML-based hashtag recommendation engine  
+☑ Follower growth forecasting (Time-Series)  
+☑ Comment sentiment classification (NLP)  
+☑ Post-timing heatmap generation  
+☑ ML-powered hashtag suggestion system  
 
 ---
 
-⭐ If you like this project → **Please Star the Repository!**
+<div align="center">
 
+⭐ If this project helped you — **Leave a Star!** ⭐  
+
+</div>
